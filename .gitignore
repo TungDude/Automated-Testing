@@ -1,2 +1,5 @@
+.vscode
 /venv
+**/__pycache__
 /**/*/*.docx
+/src/test.html
